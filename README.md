@@ -57,6 +57,7 @@ Who knows, you might get a fun response! 😆
   <a href="https://www.linkedin.com/in/mateus-silva-araújo-187586217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mtsSAraujo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
