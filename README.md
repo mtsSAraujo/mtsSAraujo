@@ -51,7 +51,27 @@ Who knows, you might get a fun response! 😆
 
 ## 📫 Let's Connect!
 
-![Mateus's Linkedin profile]\(https\://www\.linkedin.com/in/mateus-silva-araújo-187586217/)
+💼 **Find me on LinkedIn & GitHub!**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateus-silva-araújo-187586217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mtsSAraujo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+📧 **Have a question? Contact me via email!**  
+
+<p align="center">
+  <a href="mailto:mateussiaraujo0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+💡 **Let's connect and collaborate on exciting projects!** 🚀
+
 
 ---
 
