@@ -45,7 +45,7 @@ Who knows, you might get a fun response! 😆
 
 ## 🎵 Now Playing
 
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kinghartsuz&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kinghartsuz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 ---
 
